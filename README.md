@@ -1,8 +1,8 @@
 🎯 Project Description
 This is the React frontend for the Bad Posture Detection App — a modern web interface that allows users to upload videos or use their webcam to analyze posture and receive real-time or summary-based feedback.
 
-🔗 Live App: https://bad-posture-frontend.vercel.app
-🔗 Backend API: https://posture-backend.onrender.com
+🔗 Live App: https://bad-posture-frontend-sigma.vercel.app/
+🔗 Backend API: https://bad-posture-backend-d7zu.onrender.com/
 🧠 Features
 - Upload posture videos or stream from webcam
 - Sends frames to the Flask backend for analysis
@@ -35,7 +35,7 @@ This is the React frontend for the Bad Posture Detection App — a modern web in
 └── README.md
 ⚙️ Local Setup Instructions
 1. Clone the frontend repo:
-   git clone https://github.com/your-username/bad-posture-frontend.git
+   git clone https://github.com/Biden254/bad-posture-frontend.git
    cd bad-posture-frontend
 
 2. Install dependencies:
